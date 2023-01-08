@@ -1,0 +1,13 @@
+
+.bg-img1, .bg-img2, .bg-img3{
+    background-color: #000;
+}
+
+#myCarousel {
+    height: auto;
+    width: auto;
+    overflow: hidden;
+  }
+img{
+object-fit: cover;
+}
